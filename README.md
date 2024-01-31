@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 CV
 
 Based off on the [Bartosz Jarocki CV](https://github.com/BartoszJarocki/cv)
 
