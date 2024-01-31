@@ -1,5 +1,7 @@
 # Nuxt 3 Minimal Starter
 
+Based off on the [Bartosz Jarocki CV](https://github.com/BartoszJarocki/cv)
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
