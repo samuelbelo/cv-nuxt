@@ -1,9 +1,10 @@
 <script setup lang="ts">
-import { Primitive, type PrimitiveProps } from 'radix-vue'
+import { Primitive } from 'radix-vue'
+import type { PrimitiveProps } from 'radix-vue'
 import { buttonVariants } from '.'
 import { cn } from '@/lib/utils'
 
-interface Props extends PrimitiveProps {
+interface Props extends /** @vue-ignore */ PrimitiveProps {
   variant?: NonNullable<Parameters<typeof buttonVariants>[0]>['variant']
   size?: NonNullable<Parameters<typeof buttonVariants>[0]>['size']
   as?: string
