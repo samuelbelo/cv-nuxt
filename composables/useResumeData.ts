@@ -75,7 +75,7 @@ export const useResumeData = () => {
 			{
 				company: "Vertigo Tecnologia",
 				link: "https://vertigo.com.br/",
-				badges: [],
+				badges: ["Office", "Full time"],
 				title: "C/C++ Developer",
 				logo: "NSNLogo",
 				start: "Sep 2018",
